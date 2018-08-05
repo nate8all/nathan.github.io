@@ -10,3 +10,17 @@ body {
     font-size:20px;
 }
 
+h1 {
+    display:flex;
+    justify-content:center;
+}
+
+p {
+    font-size:20px;
+}
+h2 {
+    font-size: 40px;
+}
+ul {
+    font-size:20px;
+}
