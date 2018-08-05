@@ -1,0 +1,48 @@
+#header{
+    display:flex;
+    justify-content:space-around;
+    }
+.row3 {
+    display: flex;
+    justify-content: space-around;} 
+.row{   
+
+    background-color:grey;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:25%;
+    height: 25%;
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:200px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border :5px dashed; 
+    background-color: white;
+}
+.row4{
+    display: flex;
+}
+#pic{
+    width:100%;
+}  
+.headshot {
+    border-radius:50%;
+}
+.name{
+    font-size:80px;
+}
+.rowC{
+    display:flex;
+    justify-content: space-around;
+    background-color:grey;
+    color:white;
+    font-size:20px;
+}
