@@ -4,7 +4,7 @@
     }
 .row3 {
     display: flex;
-    justify-content: space-around;} 
+    justify-content:space-around;} 
 .row{   
 
     background-color:grey;
@@ -38,11 +38,14 @@
 }
 .name{
     font-size:80px;
+    color: white;
 }
-.rowC{
-    display:flex;
-    justify-content: space-around;
-    background-color:grey;
-    color:white;
-    font-size:20px;
+
+
+body {
+    background-color: black;
+}
+
+.rowfooter {
+    color: grey;
 }
